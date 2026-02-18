@@ -38,7 +38,5 @@ aggregations, and implementing SQL-style logic using Python.
 
 -   Python 3.x\
 -   Pandas\
--   NumPy\
--   SQL concepts\
 -   VS Code
 
